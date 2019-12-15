@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377963199519",
+    "firebase_url": "https://smartapp-c9372.firebaseio.com",
+    "project_id": "smartapp-c9372",
+    "storage_bucket": "smartapp-c9372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377963199519:android:64dc29515b0b7cdf47692a",
+        "android_client_info": {
+          "package_name": "com.example.smartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377963199519-m4hdit49bi7gl02r79hmrchm49c344rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartapp",
+            "certificate_hash": "bb91efdf0c5b9ae9557ba9329f3dc7eaa2a68626"
+          }
+        },
+        {
+          "client_id": "377963199519-0def1719qil7q2mm7gu0gv0ipesbf75q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvtVWLFEBlmxg_l9Ep1TFqST2F2xP6xwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377963199519-0def1719qil7q2mm7gu0gv0ipesbf75q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
